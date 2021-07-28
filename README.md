@@ -1,3 +1,2 @@
-# Here are my few projects
-- to do list
-- text counter
+# Here are my ToDoList with simple bootstrap
+
