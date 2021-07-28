@@ -1,2 +1,3 @@
-# myshop
-This is a to do list app
+# Here are my few projects
+- to do list
+- text counter
